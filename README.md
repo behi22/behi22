@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **behi22/behi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello World 👋
+
+😄 My name is Behbod Babai. I'm a Full-Stack developer based in Vancouver, BC. I have an Associates Degree of Computer Science from Langara College.
+👀 I’m interested in web development and web related technologies whether it's front-end or back-end.
+📫 You can reach me via email: behibabai@gmail.com

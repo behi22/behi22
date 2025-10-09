@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Hello World 👋
 
-- 😄 My name is Behbod Babai. I'm a Full-Stack developer based in Nanaimo, BC. I have an Associate's Degree in Computer Science from Langara College.
+- 😄 My name is Behbod Babai. I'm a Full-Stack developer based in Vancouver, BC. I have an Associate's Degree in Computer Science from Langara College.
 - 👀 I’m interested in web development and web-related technologies, whether it's front-end or back-end.
 - 📫 You can reach me via email: behibabai@gmail.com

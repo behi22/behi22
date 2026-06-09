@@ -1,20 +1,14 @@
-<!--
-**behi22/behi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hello World 👋
 
-- 😄 My name is Behbod Babai. I'm a Full-Stack developer based in Vancouver, BC. I have an Associate's Degree in Computer Science from Langara College.
-- 👀 I’m interested in web development and web-related technologies, whether it's front-end or back-end.
-- 📫 You can reach me via email: behibabai@gmail.com
+I'm Behbod Babai, a Full-Stack Engineer based in Vancouver, BC, Canada.
+
+I specialize in building AI-powered applications and scalable web systems across frontend, backend, and infrastructure. My experience includes React, TypeScript, Node.js, cloud infrastructure, CI/CD, AI agents, RAG systems, voice AI, and enterprise integrations.
+
+* 🚀 Currently building AI systems, automation platforms, and voice AI solutions
+* 🏗️ Interested in software architecture, AI engineering, DevOps, and full-stack development
+* 🌱 Always learning new technologies and improving engineering practices
+* 💼 Work GitHub: https://github.com/behbod-babai
+* 📂 Personal Projects: https://github.com/behi22
+* 📫 Reach me at: [behibabai@gmail.com](mailto:behibabai@gmail.com)
+
+Thanks for stopping by!

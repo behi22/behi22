@@ -7,7 +7,7 @@ I specialize in building AI-powered applications and scalable web systems across
 * 🚀 Currently building AI systems, automation platforms, and voice AI solutions
 * 🏗️ Interested in software architecture, AI engineering, DevOps, and full-stack development
 * 🌱 Always learning new technologies and improving engineering practices
-* 💼 Work GitHub: https://github.com/behbod-babai
+* 💼 Work GitHub: [@behbod-babai](https://github.com/behbod-babai) (private repos at Alexander Innovation Centre, ~900 contributions in the last year)
 * 📂 Personal Projects: https://github.com/behi22
 * 📫 Reach me at: [behibabai@gmail.com](mailto:behibabai@gmail.com)
 
